@@ -3,7 +3,7 @@ import { Navbar, Nav, Button, Container } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import Modal from "react-bootstrap/Modal";
 
-import logo from "../assets/logo.jpeg";
+import logo from "../assets/images/logo.jpeg";
 
 const Header = () => {
   const [show, setShow] = useState(false);

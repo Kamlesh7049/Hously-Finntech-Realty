@@ -2,7 +2,7 @@ import React from 'react'
 
 import Carousel from "react-bootstrap/Carousel";
 // import Button from "react-bootstrap/Button";
-import ban1 from "../assets/caro.jpeg";
+import ban1 from "../assets/images/banner.jfif";
 
 const Home = () => {
   return (
@@ -35,7 +35,7 @@ const Home = () => {
     </p> */}
     </Carousel.Caption>
   </Carousel.Item>
-</Carousel>
+</Carousel>xxxxxx
     </>
     
   )
